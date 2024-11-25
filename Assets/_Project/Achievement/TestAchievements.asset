@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b76e12555e60c194f9c6aa06377b8699, type: 3}
+  m_Name: TestAchievements
+  m_EditorClassIdentifier: 
+  achievements:
+  - id: Test1
+    achievementType: 1
+    titleKey: test1
+    descriptionKey: this is a test achievement
+    hidden: 0
+    unlocked: 0
+    lockedSprite: {fileID: 21300000, guid: 005888ede18a58e4db8d069cfa3007cb, type: 3}
+    unlockedSprite: {fileID: 0}
+    unlockedSound: {fileID: 0}
+    currentProgress: 3
+    requiredProgress: 5
+  - id: Test2
+    achievementType: 0
+    titleKey: 
+    descriptionKey: 
+    hidden: 0
+    unlocked: 0
+    lockedSprite: {fileID: 0}
+    unlockedSprite: {fileID: 0}
+    unlockedSound: {fileID: 0}
+    currentProgress: 0
+    requiredProgress: 10
+  - id: Test3
+    achievementType: 0
+    titleKey: 
+    descriptionKey: 
+    hidden: 0
+    unlocked: 0
+    lockedSprite: {fileID: 0}
+    unlockedSprite: {fileID: 0}
+    unlockedSound: {fileID: 0}
+    currentProgress: 0
+    requiredProgress: 1

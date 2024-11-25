@@ -1,0 +1,16 @@
+{
+    "name": "Paerux.Persistence",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5529b487bf0ecd94aad800e381eceac6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

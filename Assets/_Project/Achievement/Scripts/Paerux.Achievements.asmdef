@@ -1,0 +1,19 @@
+{
+    "name": "Paerux.Achievements",
+    "rootNamespace": "",
+    "references": [
+        "GUID:28783e9b1e3194c47b335379371e2099",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:999bdfb681a91db4999fdf63b3b96542",
+        "GUID:de0eb0496d441d442a927df0eba2c5f2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
